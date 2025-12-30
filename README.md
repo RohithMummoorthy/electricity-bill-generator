@@ -24,3 +24,5 @@ A Python mini project that calculates electricity bills based on user input and 
 - Improved Python syntax and logic building
 - Gained hands-on experience with conditional logic
 - Understood real-world application of programming concepts
+
+## 🧪 Sample Output
